@@ -1,0 +1,5 @@
+initialize the board with N x N tiles
+   - use a double for-loop
+use a seperate if-statement for the empty tile when printing
+can only move if neighboring tile is empty, four if statements
+a board is won if all tiles are in ascending order
